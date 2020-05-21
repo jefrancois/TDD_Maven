@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SuitePP">
+  <test thread-count="5" name="TestPP">
+    <classes>
+      <class name="paryajpam.TestParyajPam"/>
+    </classes>
+  </test> <!-- TestPP -->
+</suite> <!-- SuitePP -->
